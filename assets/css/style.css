@@ -1,0 +1,15 @@
+.video-wrap{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+.video-wrap video{
+    min-width: 100%;
+    min-height: 100%;
+}
+.bottom-info{
+    margin-bottom: 10px !important;
+}
