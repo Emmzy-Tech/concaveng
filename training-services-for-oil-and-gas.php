@@ -4,7 +4,7 @@ include "assets/includes/header.php";
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area gradient-bg bg-cover shadow dark text-light text-center" style="background-image: url(assets/img/p-images/p18_72.png);">
+    <div class="breadcrumb-area gradient-bg bg-cover shadow dark text-light text-center" style="background-image: url(assets/img/serv/serv5.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -20,31 +20,60 @@ include "assets/includes/header.php";
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Start Services Details 
+
+               <!-- Start Services Details
     ============================================= -->
-    <div class="services-details-area default-padding">
+    <div class="blog-area single full-blog full-blog default-padding">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 content">
-                    <h2>Training Services For Oil & Gas Companies</h2>
-                    <div class="thumb">
-                        <img src="assets/img/p-images/p18_72.png" alt="Thumb">
+            <div class="blog-items">
+                <div class="row">
+                    <div class="blog-content col-lg-10 offset-lg-1 col-md-12">
+                        <div class="single-item">
+
+                            <div class="blog-item-box">
+                                <div class="item">
+                                    <!-- Start Post Thumb -->
+                                    <div class="thumb" style="background-image: url(assets/img/serv/serv5.jpg); height: 40vh; width: 100%; background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                        <!-- <a href="#"><img src="assets/img/p-images/p19_75.png" alt="Thumb"></a> -->
+                                    </div>
+                                    <!-- Start Post Thumb -->
+
+                                    <div class="info">
+                                        
+                                        <h3>Training Services For Oil & Gas Companies</h3>
+                                        <p><strong>Overview:</strong> We offer specialized training services for oil and gas companies to enhance the skills and knowledge of their workforce. Our training programs cover a wide range of topics, including safety, technical skills, and industry best practices.</p>
+        <h3>Key Services</h3>
+        <ul>
+            <li><strong>Safety Training:</strong> Comprehensive safety training programs to ensure a safe working environment.</li>
+            <li><strong>Technical Training:</strong> In-depth technical training on various aspects of oil and gas operations.</li>
+            <li><strong>Industry Best Practices:</strong> Training on industry best practices to improve operational efficiency and compliance.</li>
+            <li><strong>Customized Training:</strong> Tailored training programs to meet the specific needs of your organization.</li>
+        </ul>
+        <h3>Benefits</h3>
+        <ul>
+            <li>Enhanced workforce skills and knowledge</li>
+            <li>Improved safety and compliance</li>
+            <li>Increased operational efficiency</li>
+            <li>Customized solutions to meet your specific needs</li>
+        </ul>
+        <h3>Case Studies</h3>
+        <ul>
+            <li><strong>Case Study 1:</strong> Trained a team of engineers on advanced drilling techniques, resulting in a 25% improvement in drilling efficiency.</li>
+            <li><strong>Case Study 2:</strong> Provided safety training for a refinery, leading to a significant reduction in workplace incidents.</li>
+        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
-                    <p>
-                    The oil and gas industry needs in-country personnel thoroughly trained to handle every aspect of safe, productive drilling both on land or sub-sea.
-                    </p>
-                    <p>
-                    Whether you are an individual looking to gain knowledge to advance your career, an individual seeking certification to fulfill job requirements or a company looking to train a group of personnel; Concave Energy Services Limited through its global technical partners can assist with providing a program that is tailored to your needs.
-                    </p>
-                    
-                    
                 </div>
-                
             </div>
         </div>
     </div>
-    <!-- End Services Details -->
 
+    <!-- End  -->
 
     <?php
 include "assets/includes/footer.php";
