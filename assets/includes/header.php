@@ -98,7 +98,7 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
                         <li class="dropdown">
-                            <a href="#" class="active">Home</a>
+                            <a href="index.php" class="active">Home</a>
                             <!-- <ul class="dropdown-menu">
                                 <li><a href="index.html">Home Version One</a></li>
                                 <li><a href="index-2.html">Home Version Two</a></li>
