@@ -4,7 +4,7 @@ include "assets/includes/header.php";
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area gradient-bg bg-cover shadow dark text-light text-center" style="background-image: url(assets/img/p-images/p2_7.png);">
+    <div class="breadcrumb-area gradient-bg bg-cover shadow dark text-light text-center" style="background-image: url(assets/img/serv/serv1.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -20,46 +20,60 @@ include "assets/includes/header.php";
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Start Services Details 
+
+                <!-- Start Services Details
     ============================================= -->
-    <div class="services-details-area default-padding">
+    <div class="blog-area single full-blog full-blog default-padding">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 content">
-                    <h2>Wellhead Maintenance Services</h2>
-                    <div class="thumb">
-                        <img src="assets/img/p-images/p2_7.png" alt="Thumb">
-                    </div>
-                    <p>
-                    Concave Energy Services is a leading provider of comprehensive wellhead maintenance services in the oil and gas industry. With a proven track record of excellence and a commitment to safety, efficiency, and environmental responsibility, we offer a range of specialized services designed to optimize the performance and longevity of wellhead systems. Our wellhead maintenance services include: -
-                    </p>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <ul>
-                            <li>Routine maintenance, greasing and inspection</li>
-                            <li>Installation, refurbishment and repair of wellhead equipment and valves</li>
-                            <li>Inventory stock management and reporting</li>
-                            <li>Hot Tapping Services</li>
-                            <li>Gate Valve Drilling Services</li>
-                            <li>Casing Cutting Services</li>
-                            <li>Specialty Sealant Services</li>
-                            <li>Complete Nipple-up/Nipple-down Services</li>
-                            <li>Hydro-static Pressure Testing</li>
-                            <li>BOP Lifting Winches & Hoist</li>
-                            <li>Poletruck Operation</li>
-                            <li>Hydro-static Pressure Testing</li>
-                            <li>Complete Nipple-up/Nipple-down Services</li>
-                            <li>BOP Lifting Winches & Hoist, Poletruck Operation</li>
-                            </ul>
+            <div class="blog-items">
+                <div class="row">
+                    <div class="blog-content col-lg-10 offset-lg-1 col-md-12">
+                        <div class="single-item">
+
+                            <div class="blog-item-box">
+                                <div class="item">
+                                    <!-- Start Post Thumb -->
+                                    <div class="thumb" style="background-image: url(assets/img/serv/serv1.jpg); height: 40vh; width: 100%; background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                        <!-- <a href="#"><img src="assets/img/p-images/p19_75.png" alt="Thumb"></a> -->
+                                    </div>
+                                    <!-- Start Post Thumb -->
+
+                                    <div class="info">
+                                        
+                                        <h3>Wellhead Maintenance Services</h3>
+                                        <p><strong>Overview:</strong> Our wellhead maintenance services ensure that your wellhead equipment operates at peak performance. We offer a comprehensive range of services to maintain the integrity and functionality of wellheads, including regular inspections, preventive maintenance, and repair services.</p>
+        <h3>Key Services</h3>
+        <ul>
+            <li><strong>Inspection and Testing:</strong> Routine inspections and testing to identify and address potential issues before they become major problems.</li>
+            <li><strong>Preventive Maintenance:</strong> Scheduled maintenance activities to keep wellhead equipment in optimal condition.</li>
+            <li><strong>Repair Services:</strong> On-site repairs using advanced tools and techniques to minimize downtime and ensure quick restoration of equipment functionality.</li>
+            <li><strong>Upgrades and Modifications:</strong> Implementing upgrades and modifications to enhance the performance and extend the life of wellhead equipment.</li>
+        </ul>
+        <h3>Benefits</h3>
+        <ul>
+            <li>Improved operational efficiency</li>
+            <li>Reduced risk of equipment failure</li>
+            <li>Enhanced safety and compliance with industry standards</li>
+            <li>Extended equipment lifespan</li>
+        </ul>
+        <h3>Case Studies</h3>
+        <ul>
+            <li><strong>Case Study 1:</strong> Successfully reduced downtime by 30% for a major oil company through a customized wellhead maintenance program.</li>
+            <li><strong>Case Study 2:</strong> Implemented a preventive maintenance schedule that resulted in a 20% increase in equipment lifespan.</li>
+        </ul>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
+
                     </div>
-                    
                 </div>
-                
             </div>
         </div>
     </div>
-    <!-- End Services Details -->
+
+    <!-- End  -->
 
 
     <?php
