@@ -48,22 +48,22 @@
                             <h4 class="widget-title">Services</h4>
                             <ul>
                                 <li>
-                                    <a href="#">Oil & Gas</a>
+                                    <a href="services.php">Oil & Gas</a>
                                 </li>
                                 <li>
-                                    <a href="#">Chemical Research</a>
+                                    <a href="services.php">Chemical Research</a>
                                 </li>
                                 <li>
-                                    <a href="#">Industrial</a>
+                                    <a href="services.php">Industrial</a>
                                 </li>
                                 <li>
-                                    <a href="#">Construction</a>
+                                    <a href="services.php">Construction</a>
                                 </li>
                                 <li>
-                                    <a href="#">Energy</a>
+                                    <a href="services.php">Energy</a>
                                 </li>
                                 <li>
-                                    <a href="#">Mechanical</a>
+                                    <a href="services.php">Mechanical</a>
                                 </li>
                             </ul>
                         </div>
@@ -74,20 +74,20 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Useful Links</h4>
                             <ul>
-                                <li>
+                                <!-- <li>
                                     <a href="#">Latest News</a>
+                                </li> -->
+                                <li>
+                                    <a href="about-us.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <a href="services.php">Services</a>
                                 </li>
                                 <li>
-                                    <a href="#">Services</a>
+                                    <a href="wellhead-maintenance-services.php">Case Studies</a>
                                 </li>
                                 <li>
-                                    <a href="#">Case Studies</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
