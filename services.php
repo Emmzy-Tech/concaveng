@@ -140,14 +140,14 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-engineer"></i>
                                 <h4>
-                                    <a href="#">Technical Manpower Supply Services
+                                    <a href="technical-manpower.php">Technical Manpower Supply Services
 </a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy offers consultancy services in supply of trained personnel thus providing cost effective professional support...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="technical-manpower.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -157,13 +157,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-factory"></i>
                                 <h4>
-                                    <a href="#">Project Management & Construction Services</a>
+                                    <a href="project-management.php">Project Management & Construction Services</a>
                                 </h4>
                             </div>
                             <p>
                             Effective Project Management is the key to managing change and innovation successfully in today's rapidly evolving...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="project-management.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -173,14 +173,14 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-power-plant"></i>
                                 <h4>
-                                    <a href="#">Embedded Generation & Off Grid Power Solutions
+                                    <a href="embedded-generation.php">Embedded Generation & Off Grid Power Solutions
 </a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy serves users of high value assets, involved in energy intensive and power generation operations – including...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="embedded-generation.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -190,13 +190,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-crane"></i>
                                 <h4>
-                                    <a href="#">Wireline Operations And Services</a>
+                                    <a href="wireline-operations.php">Wireline Operations And Services</a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy's experience in the prepayment and energy industry allows us to provide expert consultancy...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="wireline-operations.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -206,13 +206,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-antivirus"></i>
                                 <h4>
-                                    <a href="#">QA/QC & Inspection Services</a>
+                                    <a href="qa-qc-and-inspection.php">QA/QC & Inspection Services</a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy provides QA/QC & Inspection Services to the Oil & Gas Industry. The service covers Inspection...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="qa-qc-and-inspection.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -222,13 +222,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-tablet"></i>
                                 <h4>
-                                    <a href="#">Smart Metering Solutions</a>
+                                    <a href="smart-metering-solutions.php">Smart Metering Solutions</a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy provides expertise in Wireline operations to maximize data collection capabilities and provide flawless...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="smart-metering-solutions.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -238,13 +238,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-helmet"></i>
                                 <h4>
-                                    <a href="#">Laser Scanning</a>
+                                    <a href="laser-scanning.php">Laser Scanning</a>
                                 </h4>
                             </div>
                             <p>
                             With the complexity and size of assets as regards asset management in oil and gas, Concave energy provides its...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="laser-scanning.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -254,13 +254,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-lighthouse"></i>
                                 <h4>
-                                    <a href="#">Surf Installation</a>
+                                    <a href="surf-installation.php">Surf Installation</a>
                                 </h4>
                             </div>
                             <p>
                             Our experienced project team with an extensive pool of special tooling equipment provides reliable, efficient and...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="surf-installation.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -270,13 +270,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-ruler"></i>
                                 <h4>
-                                    <a href="#">Asset Management</a>
+                                    <a href="asset-management.php">Asset Management</a>
                                 </h4>
                             </div>
                             <p>
                             Our experienced team of laser scanning experts enables us to provide detailed oriented 3D scanning and digitizing...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="asset-management.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -286,13 +286,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-bridge"></i>
                                 <h4>
-                                    <a href="#">Marine Support</a>
+                                    <a href="marine-support.php">Marine Support</a>
                                 </h4>
                             </div>
                             <p>
                             Concave Energy offers excellent services in Marine and Vessel services. Our works vary through a wide range of...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="marine-support.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -302,13 +302,13 @@ include "assets/includes/header.php";
                             <div class="bottom-info">
                                 <i class="flaticon-tractor"></i>
                                 <h4>
-                                    <a href="#">Pipeline Construction</a>
+                                    <a href="pipeline-construction.php">Pipeline Construction</a>
                                 </h4>
                             </div>
                             <p>
                             Most Pipeline Construction projects are in locations where the required skill labor is lacking. We at Concave energy...
                             </p>
-                            <a href="#" class="btn angle btn-theme effect btn-md">Learn More</a>
+                            <a href="pipeline-construction.php" class="btn angle btn-theme effect btn-md">Learn More</a>
                         </div>
                     </div>
                     <!-- End Single Item -->
