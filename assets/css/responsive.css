@@ -421,7 +421,7 @@
   }
 
   .banner-area.top-pad-60 .content {
-    padding-top: 120px;
+    padding-top: 120px !important;
     padding-bottom: 110px;
   }
 
@@ -445,11 +445,11 @@
   }
 
   .banner-area.text-medium .content h2 {
-    font-size: 36px;
+    font-size: 25px;
   }
 
   .banner-area.text-medium .content h2 strong {
-    font-size: 36px;
+    font-size: 25px;
     line-height: 1.2;
   }
 
@@ -1062,5 +1062,11 @@
   .portfolio-area .gallery-items.colums-3 .pf-item,
   .portfolio-area .gallery-items.colums-4 .pf-item {
     width: 50%;
+  }
+}
+@media screen and (max-width: 350px) {
+  .banner-area.top-pad-60 .content{
+    padding-top: 120px !important;
+    padding-bottom: 110px;
   }
 }
