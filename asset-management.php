@@ -41,7 +41,7 @@ include "assets/includes/header.php";
                                     <div class="info">
                                         
                                         <h3>Asset Management</h3>
-                                        <p><strong>Overview:</strong> Our asset management services help you optimize the performance and lifespan of your assets. We offer comprehensive asset management solutions, including maintenance planning, condition monitoring, and lifecycle management.</p>
+                                        <!-- <p><strong>Overview:</strong> Our asset management services help you optimize the performance and lifespan of your assets. We offer comprehensive asset management solutions, including maintenance planning, condition monitoring, and lifecycle management.</p> -->
         <h3>Key Services</h3>
         <ul>
             <li><strong>Maintenance Planning:</strong> Development of maintenance plans to ensure the optimal performance and longevity of assets.</li>
