@@ -42,7 +42,7 @@ include "assets/includes/header.php";
                                     <div class="info">
                                         
                                         <h3>Embedded Generation & Off Grid Power Solutions</h3>
-                                        <p><strong>Overview:</strong> We offer embedded generation and off-grid power solutions to provide reliable and sustainable energy for your operations. Our solutions are tailored to meet the specific needs of your site, ensuring uninterrupted power supply and reducing dependency on traditional grid systems.</p>
+                                        <!-- <p><strong>Overview:</strong> We offer embedded generation and off-grid power solutions to provide reliable and sustainable energy for your operations. Our solutions are tailored to meet the specific needs of your site, ensuring uninterrupted power supply and reducing dependency on traditional grid systems.</p> -->
         <h3>Key Services</h3>
         <ul>
             <li><strong>Embedded Generation Systems:</strong> Design and installation of embedded generation systems to provide on-site power.</li>
