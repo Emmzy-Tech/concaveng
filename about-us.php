@@ -29,9 +29,9 @@ include "assets/includes/header.php";
                     <h2>
                         <span>INTRODUCTION</span>
                     </h2>
-                    <!-- <p style="text-align: justify;">
+                    <p style="text-align: justify;">
                     Welcome to Concave Energy Services Limited, a leading indigenous company in the Nigerian oil and gas industry. Since our establishment in 2011, we have achieved remarkable growth and established ourselves as a trusted provider of innovative and sustainable energy solutions.
-                            </p> -->
+                            </p>
 
                             <p style="text-align: justify;">As an independent upstream oil services company, Concave Energy Services Limited is wholly owned and controlled by Nigerians. We pride ourselves on forming strategic alliances with reputable companies that possess proven technical capabilities. These alliances enable us to offer a wide range of services, including technical manpower outsourcing, drilling support services, embedded generation and off-grid power solutions, engineering, procurement, and construction (EPC), as well as operational support services for onshore and offshore facilities.</p>
                             <p style="text-align: justify;">
